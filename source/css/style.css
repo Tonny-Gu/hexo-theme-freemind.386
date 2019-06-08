@@ -45,7 +45,7 @@ body {
 .page,
 .post {
     line-height: 1.5em;
-    font-family: DOS, Georgia, "Nimbus Roman No9 L", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif, Monaco, Menlo, Consolas, 'Courier New', monospace
+    font-family: DOS, Monaco, Menlo, Consolas, 'Courier New', monospace, "WenQuanYi Bitmap Song", MingLiU, PMingLiU, "AR PL UMing TW MBE", "AR PL UMing TW", "AR PL UMing HK", "AR PL UMing CN", "TW\-Sung", SimSun, NSimSun, "AR PL SungtiL GB", STSong, "AR PL New Sung", "Source Han Serif CN", "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", "Nimbus Roman No9 L"
 }
 
 .page .more {
@@ -208,7 +208,7 @@ a.label-anchor {
     text-align: right;
     width: 200px;
     left: -210px;
-    font-family: DOS, Georgia, "Nimbus Roman No9 L", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif, Monaco, Menlo, Consolas, 'Courier New', monospace
+    font-family: DOS, Monaco, Menlo, Consolas, 'Courier New', monospace, "WenQuanYi Bitmap Song", MingLiU, PMingLiU, "AR PL UMing TW MBE", "AR PL UMing TW", "AR PL UMing HK", "AR PL UMing CN", "TW\-Sung", SimSun, NSimSun, "AR PL SungtiL GB", STSong, "AR PL New Sung", "Source Han Serif CN", "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", "Nimbus Roman No9 L"
 }
 
 a.label-anchor:target span {
@@ -253,7 +253,7 @@ blockquote ol,
 blockquote ul,
 blockquote li,
 .slogan {
-    font-family: DOS, Georgia, "Nimbus Roman No9 L", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif, Monaco, Menlo, Consolas, 'Courier New', monospace
+    font-family: DOS, Monaco, Menlo, Consolas, 'Courier New', monospace, "WenQuanYi Bitmap Song", MingLiU, PMingLiU, "AR PL UMing TW MBE", "AR PL UMing TW", "AR PL UMing HK", "AR PL UMing CN", "TW\-Sung", SimSun, NSimSun, "AR PL SungtiL GB", STSong, "AR PL New Sung", "Source Han Serif CN", "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", "Nimbus Roman No9 L"
 }
 
 img,
@@ -357,7 +357,7 @@ h5,
 h6 {
     text-rendering: optimizelegibility;
     font-weight: bold;
-    font-family: DOS, Georgia, "Nimbus Roman No9 L", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif, Monaco, Menlo, Consolas, 'Courier New', monospace;
+    font-family: DOS, Monaco, Menlo, Consolas, 'Courier New', monospace, "WenQuanYi Bitmap Song", MingLiU, PMingLiU, "AR PL UMing TW MBE", "AR PL UMing TW", "AR PL UMing HK", "AR PL UMing CN", "TW\-Sung", SimSun, NSimSun, "AR PL SungtiL GB", STSong, "AR PL New Sung", "Source Han Serif CN", "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", "Nimbus Roman No9 L";
     color: #fff
 }
 
@@ -402,7 +402,7 @@ h2 {
     font-size: 1.5em;
     line-height: 1.3em;
     font-weight: bold;
-    font-family: DOS, Georgia, "Nimbus Roman No9 L", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "Source Han Serif CN", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif, Monaco, Menlo, Consolas, 'Courier New', monospace
+    font-family: DOS, Monaco, Menlo, Consolas, 'Courier New', monospace, "WenQuanYi Bitmap Song", MingLiU, PMingLiU, "AR PL UMing TW MBE", "AR PL UMing TW", "AR PL UMing HK", "AR PL UMing CN", "TW\-Sung", SimSun, NSimSun, "AR PL SungtiL GB", STSong, "AR PL New Sung", "Source Han Serif CN", "Source Han Serif SC", "Noto Serif CJK SC", "Songti SC", "Nimbus Roman No9 L"
 }
 
 .page h3.title div.article-title {
